@@ -1,0 +1,11 @@
+.btnlarge{
+	width: 60%;
+	max-width: 229px;
+	border: 10px ridge rgb(0,100,153); /*dotted,dashed,solid,double,groove,ridge,inset,outset*/
+	border-radius:2em;
+	display: block;
+	margin: 1em auto;
+	padding: 1em;
+	background-color:#CC3;
+	font-size: 2.5em;
+}
